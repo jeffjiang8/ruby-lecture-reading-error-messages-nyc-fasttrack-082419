@@ -1,2 +1,2 @@
 1 + 1
-"1" + "is the loneliest number"
+Puts "1" + "is the loneliest number"
